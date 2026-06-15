@@ -1,0 +1,12 @@
+{
+  "AppUrls": [
+    {
+      "Url": "https://google.com",
+      "RequiresCertificate": false
+    },
+    {
+      "Url": "https://www.google.co.in/index.html",
+      "RequiresCertificate": false
+    }
+  ]
+}
